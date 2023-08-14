@@ -1,0 +1,102 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Wild animal</string>
+    <string name="direction">Classify Crops?</string>
+    <string name="full_name">Full Name*</string>
+    <string name="enter_Name">Enter your full name</string>
+    <string name="email_name">Email*</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="dob_name">Date of Birth*</string>
+    <string name="enter_dob">Select your date of birth(dd/mm/yyyy)</string>
+    <string name="gender">Gender*</string>
+    <string name="male_name">Male</string>
+    <string name="female_name">Female</string>
+    <string name="mobile_name">Mobile*</string>
+    <string name="enter_mobile">Enter phone number</string>
+    <string name="enter_profession">Enter your profession</string>
+    <string name="password_name">Password*</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="confirm_password_name">Confirm password*</string>
+    <string name="enter_confirm_password">Confirm password</string>
+    <string name="register_btn">Register</string>
+
+    <string name="login_btn">Log in</string>
+    <string name="signup_with">Sign up with Gmail</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="have_acc">Dont have account? Register</string>
+    <string name="classify_crops">Classify Crops</string>
+    <string name="video_player">Video Player</string>
+    <string name="settings_option">Settings</string>
+    <string name="logout">Log out</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="change_password">Change Password</string>
+    <string name="register_head">Registration</string>
+    <string name="login_head">Log in</string>
+    <string name="rating_format">%.1f</string>
+    <string name="multiple_drop">Dropdown</string>
+
+
+    <string name="open">Open </string>
+
+    <string name="close"> Close</string>
+
+
+
+
+
+    <string-array name="array_semester">
+        <item>Select Animal</item>
+        <item>Rhino</item>
+        <item>Zebra</item>
+        <item>Buffelo</item>
+        <item>Elephant</item>
+
+
+    </string-array>
+
+    <string-array name="array_course">
+        <item>Category</item>
+    </string-array>
+
+    <string-array name="array_first_semester">
+        <item>Category</item>
+        <item>Phylum: Chordata</item>
+        <item>Class:  Mammalia</item>
+        <item>Order:  Perissodactyla</item>
+        <item>Family: Rhinocerotoidea</item>
+
+
+    </string-array>
+
+    <string-array name="array_second_semester">
+        <item>Category</item>
+        <item>Phylum: Chordata</item>
+        <item>Class: Mammalia</item>
+        <item>Order: Perissodactyla</item>
+        <item>Family: Equidae</item>
+
+
+    </string-array>
+
+    <string-array name="array_third_semester">
+        <item>Category</item>
+        <item>Phylum: Chordata</item>
+        <item>Class: Mammalia</item>
+        <item>Order: Artiodactyla</item>
+        <item>Family: Bovidae</item>
+
+
+    </string-array>
+
+    <string-array name="array_fourth_semester">
+        <item>Category</item>
+        <item>Phylum: Chordata</item>
+        <item>Class: Mammalia</item>
+        <item>Order: Proboscidea</item>
+        <item>Family: Elephantidae</item>
+
+
+    </string-array>
+
+
+
+</resources>
